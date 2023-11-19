@@ -1,0 +1,24 @@
+id: fotos
+title: Fotos
+color: link-dark
+gradient: black
+more:
+  gradient_type: circle
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 3
+    alt: false
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    link: /fotos/
+  images:
+  - 2020-12-20-11-13-46.jpg
+  - 2020-12-20-11-17-29.jpg
+  - 2020-12-20-12-18-27.jpg
+  - 2020-12-20-12-35-53.jpg
+  - 2021-02-02-19-18-17.jpg
+  - 2020-12-20-13-33-53.jpg

@@ -1,0 +1,49 @@
+id: contacto
+title: Contacto
+color: dark
+button: link
+bg: crossfit-murcia.jpg
+size: sm
+gradient: black
+more:
+  opacity: 20
+  parallax: true
+  gradient_type: circle
+rows:
+- type: contact
+  data:
+
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 7:30 - 22:00
+  - type: schedule
+    days: Sábados y Domingos
+    hours: 9:00 - 10:00
+
+  - type: br
+
+  - type: phone
+    label: 676 80 83 59
+  - type: whatsapp
+    label: 676 80 83 59
+    button: link
+  - type: whatsapp
+    label: 661 17 96 10
+    button: link
+  - type: mail
+    label: vivoboxcrossfit2013@gmail.com
+
+  - type: address
+    active: true
+    name: VivoBox CrossFit Murcia
+    streetAddress: Avenida de Alicante, 217
+    postalCode: 30007
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.107835,38.005279]}'
+
+  map:
+    active: true
+    link: '' # https://g.page/r/CQ4JLt1WiqbDEBA
+    iframe: ''

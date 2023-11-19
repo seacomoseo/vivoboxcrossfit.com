@@ -1,0 +1,46 @@
+title: VivoBox CrossFit Murcia
+description: Box oficial de CrossFit en Murcia con entrenadores certificados ✅ Prueba auténticos ejercicios y WOD y olvida imitaciones y gimnasios convencionales.
+logo: logo.svg
+legal_name: Vivobox Sll.
+legal_dni: B02768257
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- ExerciseGym
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-EFETMZ7DJC
+google_site_verification: 7G6J3Jbf2rsTkcm4R3TxEnJ0lQcQegURr4rFQSvOcrw
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/vivobox.crossfit/
+- link: https://www.facebook.com/vivobox.crossfit.murcia
+- link: https://www.youtube.com/c/vivobox-crossfit-murcia
+- link: https://twitter.com/VIVOBOXCROSSFIT
+- link: http://journal.crossfit.com/start.tpl?version=CFJ-white123x63
+# - link: https://vivoboxcrossfitmurcia.tumblr.com/
+# - link: https://games.crossfit.com/affiliate/11738
+# - link: https://www.yelp.es/biz/vivo-box-crossfit-murcia
+# - link: https://es.foursquare.com/v/vivobox-crossfit/55b6276e498e35142721bac0
+

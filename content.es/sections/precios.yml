@@ -1,0 +1,83 @@
+id: precios
+title: Precios
+color: white
+rows:
+- type: columns
+  design:
+    color: light
+    link: '#contacto'
+    label: Contactar
+    licon: none
+    icon_type: bottom
+  items:
+  - title: INICIO
+    price: 45 €/mes
+    icon: heart
+    description: |
+      o 120 €/trimestre
+      {.subprice}
+
+      - icon-check 2 clases / semana
+      - icon-check 8 clases / mes
+      - icon-check 24 clases / trimestre
+  - title: MOTIVAO
+    price: 50 €/mes
+    icon: star
+    description: |
+      o 135 €/trimestre
+      {.subprice}
+
+      - icon-check 3 clases / semana
+      - icon-check 12 clases / mes
+      - icon-check 36 clases / trimestre
+    more:
+      color: main-light
+  - title: CRACK
+    price: 60 €/mes
+    icon: certificate
+    description: |
+      o 165 €/trimestre
+      {.subprice}
+
+      - icon-check 4 clases / semana
+      - icon-check 16 clases / mes
+      - icon-check 48 clases / trimestre
+  - title: SPARTAN
+    price: 70 €/mes
+    icon: crown
+    description: |
+      o 190 €/trimestre
+      {.subprice}
+
+      - icon-check ∞ clases / semana
+      - icon-check ∞ clases / mes
+      - icon-check ∞ clases / trimestre
+    more:
+      color: main-light
+- type: columns
+  design:
+    grow: true
+  items:
+  - title: BONO 10 CLASES
+    description: |
+      80 €
+      {.price}
+  - title: CLASE INDIVIDUAL
+    description: |
+      10 €
+      {.price}
+- type: columns
+  items:
+  - title: PRIMERA CLASE
+    description: |
+      GRATIS
+      {.price}
+- type: columns
+  items:
+  - link: https://api.whatsapp.com/send?phone=34676808359
+    label: Regístrate
+    description: |
+      Tú decides como repartir tus clases, ya sean OPEN o WOD
+    more:
+      ofuscate: true
+      licon: whatsapp

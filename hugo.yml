@@ -1,0 +1,32 @@
+baseURL: https://vivoboxcrossfit.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/vivobox/vivoboxcrossfit.com
+  netlify_name: vivobox
+  netlify_id: 3b0bbe96-6ad8-43c2-a178-1e539db8c013
+  drive_link: https://drive.google.com/file/d/1TyTQLB-gqX6hO-r_WpO2ZZ8bzHBSrWLf
+  drive_mails: davidhv22@gmail.com, josemoracoach82@gmail.com, vivoboxcrossfit@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores
