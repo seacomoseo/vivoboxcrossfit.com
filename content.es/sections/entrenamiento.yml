@@ -1,0 +1,29 @@
+id: entrenamiento
+title: Entrenamiento
+subtitle: ¿Es el entrenamiento CrossFit para mí?
+color: dark
+bg: 2020-12-20-11-13-46.jpg
+gradient: black
+more:
+  opacity: 30
+  parallax: true
+  gradient_type: circle
+rows:
+- type: columns
+  design:
+    grow: true
+    align_y: center
+  items:
+  - link: '#crossfit-es-para-todos'
+    description: |
+      **¡Sí!** No importa tu edad, ni tu condición física. Es un error muy común creer que hay que tener una base para empezar a hacer CrossFit. Mucha gente intenta entrenar unas semanas por su cuenta antes de venir al [Box en Murcia](#box "CrossFit Box Murcia") y no es necesario. Una de las ventajas del CrossFit es que **se adapta de forma individual a cada persona**.
+
+      > Tus necesidades y las del deportista olímpico difieren en grado, pero no en tipo
+
+      <cite>CrossFit Training Guide</cite>
+
+    more:
+      align: left
+  - image: 2020-12-20-11-17-29.jpg
+    more:
+      align_y: stretch

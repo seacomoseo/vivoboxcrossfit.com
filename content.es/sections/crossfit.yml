@@ -1,0 +1,24 @@
+id: crossfit
+title: CrossFit
+subtitle: ¿Qué es y en qué consiste?
+color: white
+description: |
+  **CrossFit** es un sistema de **entrenamiento** basado en **ejercicios** y movimientos funcionales constantemente variados ejecutados a una alta intensidad, que nace en EEUU hace más de 10 años, de la mano de los mejores expertos en Fitness. El objetivo básico es el desarrollo de las siguientes capacidades físicas:
+more:
+  align: center
+rows:
+- type: columns
+  design:
+    ratio: 1x1
+  items:
+  - title: Resistencia Cardiovascular y Respiratoria
+    image: icono-pulso.svg
+  - title: Fuerza y Resistencia Muscular
+    image: icono-fuerza.svg
+  - title: Velocidad, Potencia y Agilidad
+    image: icono-correr.svg
+  - title: Coordinación, Equilibrio y Precisión
+    image: icono-pino.svg
+- type: columns
+  items:
+  - link: '#entrenamiento-funcional'

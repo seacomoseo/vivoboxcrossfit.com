@@ -1,0 +1,25 @@
+id: clases
+title: Clases
+subtitle: ¿Cómo es una clase de CrossFit?
+color: white
+rows:
+- type: columns
+  design:
+    grow: true
+    align_y: center
+  items:
+  - description: |
+      Las sesiones o **clases de CrossFit** suelen tener una duración de 60 minutos, que se dividen en cuatro bloques:
+
+      1.  Warm up = Calentamiento.
+      2.  Técnica.
+      3.  WOD = Entrenamiento del día.
+      4.  Cool down = Vuelta a la calma.
+
+      [btn icon-plus ¿Qué es un WOD?](#que-es-wod)
+      [btn icon-plus ¿Qué es un OPEN?](#que-es-open)
+    more:
+      align: left
+  - image: 2020-12-20-12-37-11.jpg
+    more:
+      align_y: stretch

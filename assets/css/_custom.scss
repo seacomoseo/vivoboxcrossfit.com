@@ -1,0 +1,106 @@
+// Header
+
+#body-inicio #header {
+  .buttons {
+    margin-top: 0;
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s ($delay * .125s + 1.5) both;
+  }
+  .section__title { @include show-up(1); }
+  .buttons {        @include show-up(2); }
+  .column--item-2 { @include show-up(3); }
+}
+
+// Sections
+
+#citas {
+  .h3 {
+    margin-top: 0;
+  }
+}
+#crossfit {
+  --crossfit-border-width: 4em;
+  .column {
+    overflow: visible;
+  }
+  .image {
+    &:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      border: 1em solid #c3251d;
+      border-radius: 50%;
+      background-color: transparent;
+    }
+  }
+  .image__inner {
+    color: $dark;
+    // width: calc(100% - var(--crossfit-border-width));
+    height: calc(100% - var(--crossfit-border-width));
+    top: calc(var(--crossfit-border-width) / 2);
+    // left: calc(var(--crossfit-border-width) / 2);
+  }
+}
+#equipo,
+.modal {
+  .image {
+    background-color: $dark;
+  }
+}
+#horarios {
+  th, td {
+    padding: 0.5em;
+  }
+  tr {
+    color: $white;
+    background-color: rgba($white, .33);
+    border-top: .0625em $white solid;
+  }
+  tr:nth-child(2n) {
+    background-color: transparent;
+  }
+  thead tr,
+  td:first-child {
+    background-color: rgba($main, .33);
+    border-top: none;
+  }
+}
+#precios {
+  .subprice {
+    font-size: .8em;
+    margin: -.5em 0 2em;
+  }
+  .row {
+    &:nth-child(2),
+    &:nth-child(3) {
+      .price {
+        color: $main;
+        margin-top: -0.75em;
+      }
+    }
+
+  }
+}
+
+// Footer
+
+.social--follow {
+  .buttons {
+    align-items: center;
+  }
+  .button--icon:last-child {
+    width: 125px;
+    height: 63px;
+    &:before {
+      background-image: url(/media/crossfit-journal.png);
+      border-radius: $radius;
+    }
+    svg {
+      display: none;
+    }
+  }
+}

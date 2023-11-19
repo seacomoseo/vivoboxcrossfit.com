@@ -1,0 +1,50 @@
+id: resenas
+title: Reseñas
+color: dark
+gradient: black
+more:
+  gradient_type: linear-br
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: main-dark
+    opacity: 50
+    gradient_type: linear-r
+    gradient: black
+    slider: true
+  items:
+  - title: Jose A.
+    description: |
+      Cansado de gimnasios donde al final el ejercicio se me hacía monótono, me hablaron del crossfit y sentía curiosidad por probar esa disciplina. Llegué a Vivobox con la idea de perder peso rápidamente y encontré una gran familia. Las instalaciones son muy buenas, pero es que los coaches y compañeros son mejor aún, con el buen rollo y compañerismo por bandera. Ya llevo dos años y el día que no voy al box siento como que me falta algo.
+
+      Le doy cinco estrellas porque no puedo darle diez.
+  - title: Stephanie Cowton
+    description: |
+      <span lang="en">We came to train here whilst on holiday and had the best experience. The coaching from David was amazing, he took time to explain everything in English to help us, all the regular members were welcoming, great vibes, great box! We will be back!!!!</span>
+  - title: José Martínez
+    description: |
+      El mejor box OFICIAL de CrossFit en la ciudad de Murcia. Entrena un día aquí y seguro que te quedas para siempre =)
+  - title: Benjamin Almagro Martínez
+    description: |
+      ¡Buenísimo! No hay día que no aprenda algo nuevo, o que mejore algo aprendido anteriormente. Gracias a mis coaches he superado metas que jamás creí posibles. No aceptes imitaciones... ¡Esto es CrossFit de verdad!
+  - title: Rafa Navarro
+    description: |
+      Genial atención e instalaciones. Profesionales depurando tu técnica y haciendo que cada día seas mejor y ambiente espectacular. Muy satisfecho.
+  - title: Ana Marín
+    description: |
+      ¡El mejor box! Coaches muy preparados y con amplia experiencia en el sector, buen ambiente, buenas instalaciones... ¡Lo tiene todo! ¡Si quieres practicar CrossFit no lo dudes! ¡VivoBox CrossFit!
+  - title: Virginia Andrés
+    description: |
+      ¡Fenomenal! Se preparan pruebas físicas de policía nacional, con resultados muy buenos, además de bomberos, policía local y guardia civil. Te animo a que vengas y pruebes 😉
+  - title: Jose Luis Mellado Costa
+    description: |
+      Perfecto para realizar el entrenamiento más completo para cualquiera deporte. Por experiencia afirmo que he realizado gracias a ellos **Maratones, Duatlones, pruebas Trail, Half Ironman y Ironman**. Basándome en sus entrenamientos... Grandes profesionales.
+- type: columns
+  items:
+  - description: |
+      Ver o añadir más:
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQ4JLt1WiqbDEBA/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/pg/vivobox.crossfit.murcia/reviews/ "noindex")

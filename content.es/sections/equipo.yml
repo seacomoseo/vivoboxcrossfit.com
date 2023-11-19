@@ -1,0 +1,27 @@
+id: equipo
+title: Equipo
+color: white
+rows:
+- type: columns
+  design:
+    num: 4
+    ratio: circle
+    border: main
+  items:
+  # - title: Jose Antonio Sánchez Mora
+  #   button:
+  #     link: '#jose-antonio-sanchez-mora'
+  #   media:
+  #     src: equipo-jose-antonio-sanchez-mora.jpg
+  - title: David Hernández Viña
+    link: '#david-hernandez-vina'
+    image: equipo-david-hernandez-vina.jpg
+  - title: Brayan González Ocampo
+    link: '#brayan-gonzalez-ocampo'
+    image: equipo-brayan-gonzalez-ocampo.jpg
+  - title: Higinio Murcia Campoy
+    link: '#higinio-murcia-campoy'
+    image: equipo-higinio-murcia-campoy.jpg
+  - title: Francisco Javier Carrillo Baños
+    link: '#francisco-javier-carrillo-banos'
+    image: equipo-francisco-javier-carrillo-banos.jpg

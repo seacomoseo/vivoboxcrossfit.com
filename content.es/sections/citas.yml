@@ -1,0 +1,40 @@
+id: citas
+anchor: Frases motivadoras
+color: dark
+gradient: black
+more:
+  gradient_type: circle
+rows:
+- type: columns
+  design:
+    num: 1
+    interval: 5
+    slider: true
+  items:
+  - description: |
+      icon-quote-left Practico un deporte en el que los contrincantes son tus mejores amigos icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único que te crea la necesidad de contar las repeticiones de tus compañeros icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único que te hace ver un banco en el parque como un instrumento para tu trabajo del día icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único que es imposible de explicar con palabras icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único que al escuchar nombres de mujeres, te hace sentir débil y fuerte al mismo tiempo icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left Un deporte que te hace entender códigos de guerra icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único en el que ves tus manos rotas, ensangrentadas y sonríes por el esfuerzo de la batalla icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único que te hace sentir 20 segundos como una eternidad y 10 segundos como un parpadeo icon-quote-right
+      {.h3}
+  - description: |
+      icon-quote-left El único que te crea un nudo en el estómago al escuchar 3, 2, 1, y te hace sentir el primer aliento de tu vida al escuchar 'TIEMPO' icon-quote-right
+      {.h3}

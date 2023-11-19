@@ -1,0 +1,52 @@
+id: horarios
+title: Horarios
+color: dark
+bg: ejercicios-crossfit-murcia.jpg
+gradient: black
+more:
+  opacity: 30
+  parallax: true
+  gradient_type: circle
+rows:
+- type: columns
+  design:
+    grow: true
+    align_y: center
+  items:
+  - description: |
+      |  Hora | L | M | X | J | V | S | D |
+      |-------|---|---|---|---|---|---|---|
+      |  7:30 | W | W | W | W | W | - | - |
+      |  9:00 | W | W | W | W | W | W | W |
+      | 10:00 | W | W | W | W | W | - | - |
+      | 11:00 | O | O | O | O | O | - | - |
+      | 12:00 | W | W | W | W | W | - | - |
+      | 13:00 | O | O | O | O | O | - | - |
+      | 14:00 | W | W | W | W | W | - | - |
+      | 15:00 | W | W | W | W | W | - | - |
+      | 16:00 | O | O | O | O | O | - | - |
+      | 17:00 | O | O | O | O | O | - | - |
+      | 18:00 | W | W | W | W | W | - | - |
+      | 19:00 | W | W | W | W | W | - | - |
+      | 20:00 | W | W | W | W | W | - | - |
+      | 21:00 | W | W | W | W | W | - | - |
+  - description: |
+      - **W = WOD** = Workout Of Day = Entrenamiento del Día
+      - **O = OPEN** = Entrenamiento Libre
+
+      En cada **clase de CrossFit** hay un número máximo de **30 plazas**. Según la tabla de horarios:
+
+      - **W** = **22** plazas de **WOD** + **8** plazas de **OPEN** simultaneamente.
+      - **O** = **30** plazas de **OPEN** solamente.
+
+      Para asistir a una clase o sesión, es necesario [reservar](https://api.whatsapp.com/send?phone=34676808359 "nofollow Reservas") tu plaza con un margen máximo de una hora antes de la misma. No obstante, si surge algún problema o duda al respecto, te atenderemos personalmente en nuestros teléfonos de contacto que facilitamos en la sección de [contacto](#contacto "Contacto y Localización de nuestro Box de CrossFit en Murcia").
+
+      [Si te registras](https://api.whatsapp.com/send?phone=34676808359 "nofollow"), podrás ver el plan de entrenamiento de CrossFit diario que vamos marcando.
+
+      Para poder reservar plaza en una **clase de CrossFit**, es necesario estar registrado. Si aún no lo estás, completa el registro y de manera automática podrás reservar una sesión, puesto que **la primera clase en VivoBox CrossFit es gratis**.
+
+      [btn icon-whatsapp Reservas](https://api.whatsapp.com/send?phone=34676808359 "nofollow")
+
+      En cualquier caso, si así lo prefieres, te invitamos a que vengas a visitar nuestras **instalaciones de CrossFit**, conocer el material del que disponemos y de igual forma [te atenderemos](#contacto "Contacta con nosotros") gustosamente de manera personal en [nuestro BOX](#box "Box de CrossFit en Murcia").
+    more:
+      align: left

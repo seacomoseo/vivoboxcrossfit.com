@@ -1,0 +1,23 @@
+id: header
+anchor: VivoBox CrossFit Murcia
+color: dark
+bg: back-squad-pesas-crossfit.jpg
+size: md
+gradient: black
+more:
+  opacity: 20
+  parallax: true
+  gradient_type: linear-br
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - title: VivoBox CrossFit Murcia
+    image: logo.svg
+    description: |
+      [btn icon-right-to-bracket Reservas](https://vivobox.wodbuster.com/athlete/reservas.aspx)
+      [btn icon-circle-info Más](#principal)
+  - image: 2022-10-12.mp4#poster=2020-12-20-11-17-38.jpg
+    more:
+      ratio: 3x4
