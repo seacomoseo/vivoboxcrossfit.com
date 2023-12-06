@@ -13,15 +13,15 @@ rows:
   #     link: '#jose-antonio-sanchez-mora'
   #   media:
   #     src: equipo-jose-antonio-sanchez-mora.jpg
-  - title: David Hernández Viña
+  - title: David <br> Hernández Viña
     link: '#david-hernandez-vina'
     image: equipo-david-hernandez-vina.jpg
-  - title: Brayan González Ocampo
+  - title: Brayan <br> González Ocampo
     link: '#brayan-gonzalez-ocampo'
     image: equipo-brayan-gonzalez-ocampo.jpg
-  - title: Higinio Murcia Campoy
+  - title: Higinio <br> Murcia Campoy
     link: '#higinio-murcia-campoy'
     image: equipo-higinio-murcia-campoy.jpg
-  - title: Francisco Javier Carrillo Baños
+  - title: Francisco Javier <br> Carrillo Baños
     link: '#francisco-javier-carrillo-banos'
     image: equipo-francisco-javier-carrillo-banos.jpg
