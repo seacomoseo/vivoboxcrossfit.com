@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/vivobox/vivoboxcrossfit.com
   netlify_name: vivobox
   netlify_id: 3b0bbe96-6ad8-43c2-a178-1e539db8c013
+  hook: NjJmOTRlZWIwZDI2OTkyNWEyNDIzMTQ1
   drive_link: https://drive.google.com/file/d/1TyTQLB-gqX6hO-r_WpO2ZZ8bzHBSrWLf
   drive_mails: davidhv22@gmail.com, josemoracoach82@gmail.com, vivoboxcrossfit@gmail.com
 defaultContentLanguage: es
