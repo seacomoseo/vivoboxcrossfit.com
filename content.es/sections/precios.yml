@@ -11,21 +11,21 @@ rows:
     icon_type: bottom
   items:
   - title: INICIO
-    price: 45 €/mes
+    price: 50 €/mes
     icon: heart
     description: |
-      o 120 €/trimestre
-      {.subprice}
+      o 135 €/trimestre
+      {.h6}
 
       - icon-check 2 clases / semana
       - icon-check 8 clases / mes
       - icon-check 24 clases / trimestre
   - title: MOTIVAO
-    price: 50 €/mes
+    price: 55 €/mes
     icon: star
     description: |
-      o 135 €/trimestre
-      {.subprice}
+      o 150 €/trimestre
+      {.h6}
 
       - icon-check 3 clases / semana
       - icon-check 12 clases / mes
@@ -33,21 +33,21 @@ rows:
     more:
       color: main-light
   - title: CRACK
-    price: 60 €/mes
+    price: 65 €/mes
     icon: certificate
     description: |
-      o 165 €/trimestre
-      {.subprice}
+      o 185 €/trimestre
+      {.h6}
 
       - icon-check 4 clases / semana
       - icon-check 16 clases / mes
       - icon-check 48 clases / trimestre
   - title: SPARTAN
-    price: 70 €/mes
+    price: 75 €/mes
     icon: crown
     description: |
-      o 190 €/trimestre
-      {.subprice}
+      o 205 €/trimestre
+      {.h6}
 
       - icon-check ∞ clases / semana
       - icon-check ∞ clases / mes
@@ -59,8 +59,9 @@ rows:
     grow: true
   items:
   - title: BONO 10 CLASES
+    subtitle: Fechas abiertas
     description: |
-      80 €
+      70 €
       {.price}
   - title: CLASE INDIVIDUAL
     description: |

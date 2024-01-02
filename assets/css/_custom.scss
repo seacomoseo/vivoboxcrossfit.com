@@ -69,22 +69,6 @@
     border-top: none;
   }
 }
-#precios {
-  .subprice {
-    font-size: .8em;
-    margin: -.5em 0 2em;
-  }
-  .row {
-    &:nth-child(2),
-    &:nth-child(3) {
-      .price {
-        color: $main;
-        margin-top: -0.75em;
-      }
-    }
-
-  }
-}
 
 // Footer
 
