@@ -17,9 +17,8 @@ rows:
       o 135 €/trimestre
       {.h6}
 
-      - icon-check 2 clases / semana
-      - icon-check 8 clases / mes
-      - icon-check 24 clases / trimestre
+      - icon-check 9 clases / mes
+      - icon-check 27 clases / trimestre
   - title: MOTIVAO
     price: 55 €/mes
     icon: star
@@ -27,9 +26,8 @@ rows:
       o 150 €/trimestre
       {.h6}
 
-      - icon-check 3 clases / semana
-      - icon-check 12 clases / mes
-      - icon-check 36 clases / trimestre
+      - icon-check 13 clases / mes
+      - icon-check 39 clases / trimestre
     more:
       color: main-light
   - title: CRACK
@@ -39,9 +37,8 @@ rows:
       o 185 €/trimestre
       {.h6}
 
-      - icon-check 4 clases / semana
-      - icon-check 16 clases / mes
-      - icon-check 48 clases / trimestre
+      - icon-check 17 clases / mes
+      - icon-check 51 clases / trimestre
   - title: SPARTAN
     price: 75 €/mes
     icon: crown
@@ -49,7 +46,6 @@ rows:
       o 205 €/trimestre
       {.h6}
 
-      - icon-check ∞ clases / semana
       - icon-check ∞ clases / mes
       - icon-check ∞ clases / trimestre
     more:
