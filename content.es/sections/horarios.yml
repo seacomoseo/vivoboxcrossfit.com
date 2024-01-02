@@ -18,7 +18,7 @@ rows:
       |-------|---|---|---|---|---|---|---|
       |  7:30 | W | W | W | W | W | - | - |
       |  9:00 | W | W | W | W | W | W | W |
-      | 10:00 | W | W | W | W | W | - | - |
+      | 10:00 | W | W | W | W | W | W | - |
       | 11:00 | O | O | O | O | O | - | - |
       | 12:00 | W | W | W | W | W | - | - |
       | 13:00 | O | O | O | O | O | - | - |
@@ -26,13 +26,14 @@ rows:
       | 15:00 | W | W | W | W | W | - | - |
       | 16:00 | O | O | O | O | O | - | - |
       | 17:00 | O | O | O | O | O | - | - |
-      | 18:00 | W | W | W | W | W | - | - |
+      | 18:00 | W | H | W | W | W | - | - |
       | 19:00 | W | W | W | W | W | - | - |
       | 20:00 | W | W | W | W | W | - | - |
       | 21:00 | W | W | W | W | W | - | - |
   - description: |
       - **W = WOD** = Workout Of Day = Entrenamiento del Día
       - **O = OPEN** = Entrenamiento Libre
+      - **H = Halterofilia**
 
       En cada **clase de CrossFit** hay un número máximo de **30 plazas**. Según la tabla de horarios:
 
