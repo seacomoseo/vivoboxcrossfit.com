@@ -1,5 +1,6 @@
 id: box
 title: Box
+anchor: Box de CrossFit en Murcia
 subtitle: Box de CrossFit en Murcia
 color: dark
 bg: 2020-12-20-12-13-11.jpg
@@ -13,12 +14,12 @@ more:
 rows:
 - type: columns
   design:
+    num: 2
     grow: true
+    align: left
     align_y: center
   items:
   - image: 2021-02-02-23-13-33.jpg
-    more:
-      align_y: stretch
   - title: ¿Qué nos diferencia?
     description: |
       En **VivoBox CrossFit** te damos un trato 100% individualizado. Percibirás que tienes un [entrenador de CrossFit](#equipo "CrossFit Murcia - Entrenadores de CrossFit") personal solo para ti en cada [clase](#clases "Clases de CrossFit"). Ofrecemos una atención total en tus [WOD\'s](#que-es-wod "WOD = Work Of Day (Entrenamiento del día"); los coaches te harán correcciones posturales y en técnica constantemente. En otros Box hay animadores, aquí somos **entrenadores**.
@@ -26,5 +27,35 @@ rows:
       No somos un **GYM o Gimnasio de CrossFit**, somos mucho más que eso: **Box de CrossFit en Murcia**.
 
       Mantenemos el espíritu del CrossFit, somos un equipo, todos formamos parte del box. Así que no lo pienses más: ¡te estamos esperando!
+  - image: 2024-01-02--002.jpg
+    order: 3
+  - title: Más que un BOX
+    description: |
+      Además de ser un centro de entrenamiento de primer nivel, VivoBox CrossFit ofrece una serie de servicios y comodidades exclusivas para nuestros miembros.
     more:
-      align: left
+      align_xl: right
+  - image: 2024-01-02--003.mp4#poster=2024-01-02--001.jpg#mute
+    order: 4
+    more:
+      ratio: 3x4
+  - description: |
+      ### Tienda
+
+      Aquí encontrarás todo lo necesario para tu entrenamiento: desde ropa deportiva hasta accesorios y suplementos nutricionales.
+
+      ### Cafetería
+
+      Te invitamos a este espacio acogedor donde podrás relajarte compartiendo experiencias con otros compañeros del box.
+
+      ### Open Exclusivo
+
+      Un espacio dedicado exclusivamente a los que quieran realizar sus entrenamientos de tipo OPEN sin entremezclarse con los que están en horario de WOD.
+
+      ### Sala 24h: una novedad única
+
+      Este espacio está disponible las 24 horas del día, lo que te permite entrenar según tu horario y necesidades. ¡Es el lugar perfecto para aquellos que buscan flexibilidad y comodidad en su rutina de ejercicios!
+    order: 5
+
+
+
+
