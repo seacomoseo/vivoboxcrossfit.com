@@ -15,7 +15,6 @@ rows:
 - type: columns
   design:
     num: 2
-    grow: true
     align: left
     align_y: center
   items:
