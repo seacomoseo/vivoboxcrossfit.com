@@ -4,12 +4,12 @@
   .buttons {
     margin-top: 0;
   }
-  @mixin show-up($delay) {
-    animation: show-up .5s ($delay * .125s + 1.5) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s ($delay * .125s + 1.5) both;
   }
-  .section__title { @include show-up(1); }
-  .buttons {        @include show-up(2); }
-  .column--item-2 { @include show-up(3); }
+  .section__title { @include show-from(1); }
+  .buttons {        @include show-from(2); }
+  .column--item-2 { @include show-from(3); }
 }
 
 // Sections
