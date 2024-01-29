@@ -10,7 +10,6 @@ more:
 rows:
 - type: columns
   design:
-    grow: true
     align_y: center
   items:
   - description: |
