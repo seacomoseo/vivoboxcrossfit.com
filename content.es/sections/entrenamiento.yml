@@ -2,7 +2,7 @@ id: entrenamiento
 title: Entrenamiento
 subtitle: ¿Es el entrenamiento CrossFit para mí?
 color: dark
-bg: 2020-12-20-11-13-46.jpg
+bg: 2020-12-20/2020-12-20-11-13-46.jpg
 gradient: black
 more:
   opacity: 30
@@ -24,6 +24,6 @@ rows:
 
     more:
       align: left
-  - image: 2020-12-20-11-17-29.jpg
+  - image: 2020-12-20/2020-12-20-11-17-29.jpg
     more:
       align_y: stretch

@@ -12,13 +12,13 @@ rows:
     ratio: 1x1
   items:
   - title: Resistencia Cardiovascular y Respiratoria
-    image: icono-pulso.svg
+    image: iconos/pulso.svg
   - title: Fuerza y Resistencia Muscular
-    image: icono-fuerza.svg
+    image: iconos/fuerza.svg
   - title: Velocidad, Potencia y Agilidad
-    image: icono-correr.svg
+    image: iconos/correr.svg
   - title: Coordinación, Equilibrio y Precisión
-    image: icono-pino.svg
+    image: iconos/pino.svg
 - type: columns
   items:
   - link: '#entrenamiento-funcional'
