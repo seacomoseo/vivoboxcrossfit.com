@@ -33,5 +33,3 @@ languages:
         tags: etiquetas
         authors: autores
         custom: personalizadas
-
-timeout: 480s
