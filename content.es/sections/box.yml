@@ -3,7 +3,7 @@ title: Box
 anchor: Box de CrossFit en Murcia
 subtitle: Box de CrossFit en Murcia
 color: dark
-bg: 2020-12-20-12-13-11.jpg
+bg: 2020-12-20/2020-12-20-12-13-11.jpg
 gradient: black
 description: |
   Somos el segundo centro oficial de **CrossFit en Murcia** especializado en el que llevamos más de 5 años realizando entrenamientos con movimientos funcionales ejecutados a alta intensidad. Nuestros [entrenadores de CrossFit](#equipo) tienen el título oficial de **Entrenador CrossFit** Level 1 y tienen años de experiencia. Además, se siguen formando y reciclando constantemente para asegurarte la mejor calidad de entrenamiento.
@@ -18,7 +18,7 @@ rows:
     align: left
     align_y: center
   items:
-  - image: 2021-02-02-23-13-33.jpg
+  - image: 2021-02-02/2021-02-02-23-13-33.jpg
   - title: ¿Qué nos diferencia?
     description: |
       En **VivoBox CrossFit** te damos un trato 100% individualizado. Percibirás que tienes un [entrenador de CrossFit](#equipo "CrossFit Murcia - Entrenadores de CrossFit") personal solo para ti en cada [clase](#clases "Clases de CrossFit"). Ofrecemos una atención total en tus [WOD\'s](#que-es-wod "WOD = Work Of Day (Entrenamiento del día"); los coaches te harán correcciones posturales y en técnica constantemente. En otros Box hay animadores, aquí somos **entrenadores**.
@@ -26,14 +26,14 @@ rows:
       No somos un **GYM o Gimnasio de CrossFit**, somos mucho más que eso: **Box de CrossFit en Murcia**.
 
       Mantenemos el espíritu del CrossFit, somos un equipo, todos formamos parte del box. Así que no lo pienses más: ¡te estamos esperando!
-  - image: 2024-01-02--002.jpg
+  - image: 2024-01-02/2024-01-02--002.jpg
     order: 3
   - title: Más que un BOX
     description: |
       Además de ser un centro de entrenamiento de primer nivel, VivoBox CrossFit ofrece una serie de servicios y comodidades exclusivas para nuestros miembros.
     more:
       align_xl: right
-  - image: 2024-01-02--003.mp4#poster=2024-01-02--001.jpg#mute
+  - image: 2024-01-02/2024-01-02--003.mp4#poster=2024-01-02/2024-01-02--001.jpg#mute
     order: 4
     more:
       ratio: 3x4
