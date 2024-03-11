@@ -7,7 +7,6 @@ more:
 rows:
 - type: gallery
   design:
-    max: 999
     num: 3
     alt: false
     wrap: true
