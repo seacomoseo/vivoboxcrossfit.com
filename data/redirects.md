@@ -15,3 +15,4 @@
 / page_id=:page_id /?n 301!
 / s=:s /?n 301!
 / tribe_events=:tribe_events /?n 301!
+/?n / 301!
