@@ -10,9 +10,8 @@
 /murcia/wod-181215/ /
 /media/2024-01-02--001-1440x1920.webp /media/2024-01-02/2024-01-02--001-1440x1920.webp
 /media/2020-12-20-11-17-38-682x1024.webp /media/2020-12-20/2020-12-20-11-17-38.jpg
-/ cat=:cat /?n 301!
-/ post_type=:post_type p=:p preview=:preview /?n 301!
-/ page_id=:page_id /?n 301!
-/ s=:s /?n 301!
-/ tribe_events=:tribe_events /?n 301!
-/?n / 301!
+/ cat=:p /wod/:p/ 301
+/ post_type=:post_type p=:p preview=:preview /wod/:post_type/:p/:preview/ 301
+/ page_id=:p /wod/:p/ 301
+/ s=:p /wod/:p/ 301
+/ tribe_events=:p /wod/:p/ 301
