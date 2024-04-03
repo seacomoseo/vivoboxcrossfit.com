@@ -12,6 +12,15 @@ rows:
     card: true
     button: hide
   items:
+  - title: 2024-04-02 <br> Bando de la Huerta 2024
+    link: '#2024-04-02'
+    image: 2024-04-02/2024-04-02-09-37-37.jpg
+  - title: 2024-03-18
+    link: '#2024-03-18'
+    image: 2024-03-18/2024-03-18-10-34-22.jpg
+  - title: 2024-03-11
+    link: '#2024-03-11'
+    image: 2024-03-11/2024-03-11-08-11-07.jpg
   - title: 2024-03-09 <br> Road to Athens 2024 <br> WOD 2
     link: '#2024-03-09-wod-2'
     image: 2024-03-09/wod-2/2024-03-09-11-48-14.jpg
