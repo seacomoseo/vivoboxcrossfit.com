@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1TyTQLB-gqX6hO-r_WpO2ZZ8bzHBSrWLf
   drive_mails: davidhv22@gmail.com, josemoracoach82@gmail.com, vivoboxcrossfit@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina
