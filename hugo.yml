@@ -3,7 +3,7 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/vivobox/vivoboxcrossfit.com
+  git_url: https://github.com/seacomoseo/vivoboxcrossfit.com
   netlify_name: vivobox
   netlify_id: 3b0bbe96-6ad8-43c2-a178-1e539db8c013
   hook: NjJmOTRlZWIwZDI2OTkyNWEyNDIzMTQ1

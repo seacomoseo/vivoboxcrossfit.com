@@ -15,3 +15,7 @@
 / page_id=:page_id /?n 301!
 / s=:s /?n 301!
 / tribe_events=:tribe_events /?n 301!
+
+#
+
+/fotos/ https://radial-bug-74c.notion.site/f86e97b428a84671ac0c7c65cde12ce1?v=0d3e42a7d7a8453498025f8e920cddce&pvs=25
