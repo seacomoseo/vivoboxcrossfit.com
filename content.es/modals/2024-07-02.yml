@@ -1,0 +1,16 @@
+title: 2024-07-02
+size: lg
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    num: 3
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+  images:
+  - 2024-07-02/2024-07-02-09-18-08.jpg
+  - 2024-07-02/2024-07-02-09-36-28.jpg
+  - 2024-07-02/2024-07-02-09-47-15.jpg
