@@ -23,17 +23,22 @@ rows:
   - type: br
 
   - type: phone
-    label: 661 17 96 10
-  - type: whatsapp
-    label: 661 17 96 10
-    button: link
-  # - type: phone
-  #   label: 676 80 83 59
+    label: 676 80 83 59
   - type: whatsapp
     label: 676 80 83 59
     button: link
+
+  - type: br
+
+  - type: phone
+    label: 661 17 96 10
+  - type: whatsapp
+    label: 661 17 96 10
+    button: link
+
   - type: mail
     label: vivoboxcrossfit2013@gmail.com
+    full: true
 
   - type: address
     active: true
